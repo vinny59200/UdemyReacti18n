@@ -1,0 +1,15 @@
+https://react.i18next.com/guides/quick-start
+
+
+1) Install needed dependencies
+Do this in the React root folder V
+npm install react-i18next i18next --save V
+
+
+2) Configure i18next
+Create a new file i18n.js beside your index.js V
+Then import that in index.js V
+
+
+3) Translate your content V
+Using the hook V
